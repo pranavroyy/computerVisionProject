@@ -42,11 +42,8 @@ A Project that detects and extracts text fields from electronic identity cards (
 ### File structure (suggested)
 ```
 project-root/
-├─ data/
-│  ├─ images/
-├─ notebooks/
-│  └─ e-ip-card-reader-OCR.ipynb
-├─ requirements.txt
+├─ images/
+├─e-ip-card-reader-OCR.ipynb
 └─ README.md
 ```
 
